@@ -32,3 +32,4 @@ accident, assesses the algorithms' performance, and tries to arrive at an optima
 accident severity.
 
 Data set  - https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction 
+Colab File - https://colab.research.google.com/github/Thavisha72/Business-Intelligence-Group-Project/blob/main/Business_Intelligence_Group_Project.ipynb
