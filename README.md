@@ -18,6 +18,7 @@ conditions , road conditions , road type, road light conditions and traffic dens
 safety measures have relied on historical accident reports and expert judgments, while machine 
 learning presents an approach that is more accurate and scalable. 
 Key research questions are as follows. 
+
      ● How do environmental factors impact accident severity? 
      
      ● How do driver behaviours impact accident severity? 
