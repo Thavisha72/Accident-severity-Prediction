@@ -29,3 +29,5 @@ Key research questions are as follows.
 This study applies some different machine-learning algorithms to predict the severity of an 
 accident, assesses the algorithms' performance, and tries to arrive at an optimal model for predicting 
 accident severity.
+
+Data set  - https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction 
