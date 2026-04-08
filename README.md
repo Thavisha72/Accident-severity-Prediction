@@ -1,6 +1,6 @@
 Predicting Accident Severity Based on Driver Behavior and Environmental Factors
 
-** Problem Statement **
+ Problem Statement
 
 Traffic accidents continue to be a major threat to public safety with loss of lives, injuries, and 
 disruption to the economy. Knowledge of those underlying factors that may affect the severity of 
@@ -12,7 +12,7 @@ Environmental factors. The end result should be a data-driven model that will go
 achieving considerable road safety and assist traffic management systems to incorporate such 
 information in their decision-making processes.
 
-** Problem Description **
+ Problem Description 
  
 Traffic accidents can generally get more or less severe with driver behaviors such as Alcohol level 
 of the driver , Driver experience and age of the driver sand environmental factors, such as weather 
