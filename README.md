@@ -33,6 +33,12 @@ This study applies some different machine-learning algorithms to predict the sev
 accident, assesses the algorithms' performance, and tries to arrive at an optimal model for predicting 
 accident severity.
 
+Power BI Dashboards
+
+<img width="1309" height="736" alt="image" src="https://github.com/user-attachments/assets/3131ab87-240e-46eb-9fbf-fce787990b7d" />
+
+<img width="1312" height="740" alt="image" src="https://github.com/user-attachments/assets/4c43c1fc-ce97-4268-8e53-55d978364fc9" />
+
 Data set  - https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction 
 
 Colab File - https://colab.research.google.com/github/Thavisha72/Business-Intelligence-Group-Project/blob/main/Business_Intelligence_Group_Project.ipynb
